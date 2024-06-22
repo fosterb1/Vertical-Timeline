@@ -53,5 +53,3 @@ You can view a demo of the project by opening `index.html` in your web browser.
 
 Feel free to reach out @fosterboadi152@gmail.com if you have any suggestions or feedback!
 
-
-This README provides a clear overview of your project, its features, and how to use it. Make sure to include any necessary images in a `screenshots` folder if you plan to use the screenshots section.
